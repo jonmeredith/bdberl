@@ -1,4 +1,4 @@
-This is an Erlang port driver that allows Erlang programs to store data in BerkleyDB.
+This is an Erlang port driver that allows Erlang programs to store data in BerkeleyDB.
 
 Authors:
   Dave "dizzyd" Smith <dizzyd@dizzyd.com>
